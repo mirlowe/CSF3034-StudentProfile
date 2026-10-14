@@ -17,6 +17,8 @@ public class StudentProfile {
         System.out.println("Name: Amir Zaqwan Bin Azlan"); 
         System.out.println("Student ID: S87488"); 
         System.out.println("Programme: Bachelor of Maritime Informatics with Honour");
+        System.out.println("Favourite Programming Language : Java");
+        System.out.println("Semester : 1");
     }
     
 }
